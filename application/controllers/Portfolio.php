@@ -8,10 +8,10 @@ class Portfolio extends CI_Controller
 		//call CodeIgniter's default Constructor
 		parent::__construct();
 	}
-		public function index()
+		public function portfolio()
 		{
-        $this->load->view('layouts/header');
+        $this->load->view('includes/header');
 		$this->load->view('layouts/portfolio');
-		$this->load->view('layouts/footer');
+		$this->load->view('includes/footer');
 	    }
 }

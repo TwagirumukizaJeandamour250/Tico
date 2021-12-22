@@ -10,8 +10,8 @@ class Service extends CI_Controller
 	}
 		public function services()
 		{
-        $this->load->view('layouts/header');
+        $this->load->view('includes/header');
 		$this->load->view('layouts/services');
-		$this->load->view('layouts/footer');
+		$this->load->view('includes/footer');
 	    }
 }

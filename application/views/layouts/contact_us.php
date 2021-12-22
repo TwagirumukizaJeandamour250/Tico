@@ -85,7 +85,7 @@
     <!-- ======= Map Section ======= -->
     <section class="map mt-2">
       <div class="container-fluid p-0">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d255203.55349829874!2d29.987155568112424!3d-1.9297648361979547!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca4258ed8e797%3A0xf32b36a5411d0bc8!2sKigali!5e0!3m2!1sen!2srw!4v1628566518593!5m2!1sen!2srw" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.4654950296094!2d30.063933314204547!3d-1.9677832373028812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca502f871e699%3A0xc43f7e67689c3ecc!2sGLIHD!5e0!3m2!1sen!2srw!4v1640120414673!5m2!1sen!2srw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
       </div>
     </section><!-- End Map Section -->
 
